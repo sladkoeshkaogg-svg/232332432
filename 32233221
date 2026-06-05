@@ -506,12 +506,12 @@ end
     -- local OrionLib = loadstring(readfile("OrionLiv.txt"))()
     -- local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Jeffepicy/OrionGod/refs/heads/main/CosmicOrion')))()
     local Window = OrionLib:MakeWindow({
-        Name = "NoName", 
+        Name = "Мой скрипт", 
         HidePremium = false, 
         SaveConfig = true, 
-        ConfigFolder = "NNhub", 
+        ConfigFolder = "111, 
         IntroEnabled = true, 
-        IntroText = "NNhub",
+        IntroText = "111",
         Keybind = "K",
         FreeMouse = true,
     })
