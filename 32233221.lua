@@ -1,4 +1,4 @@
---3213213232132132312313
+
 
     warn([[
         ----------------------------------------------
@@ -506,7 +506,7 @@ end
     -- local OrionLib = loadstring(readfile("OrionLiv.txt"))()
     -- local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Jeffepicy/OrionGod/refs/heads/main/CosmicOrion')))()
     local Window = OrionLib:MakeWindow({
-        Name = "Мой скрипт", 
+        Name = "NoName", 
         HidePremium = false, 
         SaveConfig = true, 
         ConfigFolder = "NNhub", 
